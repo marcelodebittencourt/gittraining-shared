@@ -24,6 +24,7 @@ public class Multiply extends AbstractOperation implements BinaryOperation {
 	 */
 	@Override
 	public float perform(float arg1, float arg2) {
+		// Super Funktion
 		return arg1 * arg2;
 	}
 
