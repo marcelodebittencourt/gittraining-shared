@@ -7,7 +7,7 @@
  * http://www.eclipse.org/legal/epl-v10.html
  *******************************************************************************/
  
- /* Okay das ist ein Test hier von Steini */
+ /* Okay das ist ein Test hier von Steini und ein neues Feature zum Testen von Shared Training */
 package org.eclipse.example.calc;
 
 /**
