@@ -6,6 +6,8 @@
  * which accompanies this distribution, and is available at
  * http://www.eclipse.org/legal/epl-v10.html
  *******************************************************************************/
+ 
+ /* Okay das ist ein Test hier von Steini */
 package org.eclipse.example.calc;
 
 /**
